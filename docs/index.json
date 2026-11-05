@@ -1,0 +1,25 @@
+{
+  "schema": "share-index/v1",
+  "entries": [
+    {
+      "slug": "d4-xianxia-evidence",
+      "name": "d4-xianxia-evidence",
+      "description": "以修仙境界为主线，探索洞天福地。",
+      "target": {
+        "mc": "1.20.1",
+        "loader": "forge",
+        "loader_version": "47.2.0"
+      },
+      "mods_count": 17,
+      "download": "https://deceive-glich.github.io/packsmith-share/share/d4-xianxia-evidence/pack.mrpack",
+      "sha256": "e96309a681cbe604f51f6d78df616b05cf987552de15860aaab445354f43e00d",
+      "bytes": 49597000,
+      "url": "https://deceive-glich.github.io/packsmith-share/share/d4-xianxia-evidence/index.html"
+    }
+  ],
+  "updated_at": "2026-11-05T18:05:39.576488+00:00",
+  "remote": {
+    "status": "blocked",
+    "reason": "未配置域名与对象存储凭据，未执行远端上传"
+  }
+}
